@@ -22,7 +22,7 @@
     "rimraf": "^3.0.2",
     "ts-jest": "^25.5.1",
     "ts-node": "^8.10.2",
-    "tsutils": "^3.17.0",
+    "tsutils": "^3.21.0",
     "typedoc": "^0.17.8",
     "typescript": "^3.9.5"
   },
